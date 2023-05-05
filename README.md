@@ -33,4 +33,5 @@ You can visit a live version of this application at https://parier.netlify.app/
 
 ## Contributors
 [@ajistrying](https://github.com/ajistrying): Smart contracts
+
 [Me](https://github.com/FrescoFlacko): Web application, smart contracts
